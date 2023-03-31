@@ -16,3 +16,7 @@ C:\Users\Talha PC\Downloads\NUnitTesting\NUnitTesting\TestClass\obj\Debug\TestCl
 C:\Users\Talha PC\Downloads\NUnitTesting\NUnitTesting\TestClass\obj\Debug\TestClass.csproj.CopyComplete
 C:\Users\Talha PC\Downloads\NUnitTesting\NUnitTesting\TestClass\obj\Debug\TestClass.dll
 C:\Users\Talha PC\Downloads\NUnitTesting\NUnitTesting\TestClass\obj\Debug\TestClass.pdb
+C:\Users\Talha PC\Downloads\NUnitTesting\NUnitTesting\TestClass\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Talha PC\Downloads\NUnitTesting\NUnitTesting\TestClass\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Talha PC\Downloads\NUnitTesting\NUnitTesting\TestClass\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Talha PC\Downloads\NUnitTesting\NUnitTesting\TestClass\bin\Debug\WebDriver.dll

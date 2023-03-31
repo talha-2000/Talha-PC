@@ -44,9 +44,9 @@ namespace NUnitDemonstration
             }
 
 
-            customTriangle = Triangle.AnalyzeTriangle(firstSide, secondSide, thirdSide);
+           
 
-            Console.WriteLine(customTriangle);
+            
             Console.WriteLine();
             Console.ReadLine();
            
